@@ -1,0 +1,12 @@
+RA 70/2013 Stefan Radanovic
+file	sum
+video-0.avi	-16
+video-1.avi	-21
+video-2.avi	-19
+video-3.avi	-62
+video-4.avi	-43
+video-5.avi	14
+video-6.avi	-77
+video-7.avi	-4
+video-8.avi	-26
+video-9.avi	10
